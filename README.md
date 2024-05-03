@@ -510,7 +510,7 @@ section {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 2rem 0;
+    padding: 2.1rem 0;
     gap: 1rem;
 }
 
